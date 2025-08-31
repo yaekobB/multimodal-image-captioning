@@ -1,0 +1,10 @@
+# Ignore model weights and large files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.zip
+
+# Ignore temp files
+__pycache__/
+.ipynb_checkpoints/
