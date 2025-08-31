@@ -1,0 +1,25 @@
+# ============================================================
+# Requirements for BLIP Image Captioning (Training + Inference)
+# ============================================================
+
+# ---- Core (pinned for reproducibility, tested on Kaggle) ----
+torch==2.8.0
+transformers==4.56.0
+evaluate==0.4.5
+accelerate==0.33.0
+datasets==2.20.0
+nltk==3.9.1
+rouge-score==0.1.2
+pandas==2.2.2
+numpy==1.26.4
+pillow==10.3.0
+matplotlib==3.9.0
+
+# ---- Optional: loosen versions if you just want to run inference ----
+# torch>=2.0.0
+# transformers>=4.30.0
+# accelerate>=0.20.0
+# datasets>=2.14.0
+
+# ---- For demo UI (local or Hugging Face Spaces) ----
+gradio>=5.0.0
