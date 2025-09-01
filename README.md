@@ -1,7 +1,7 @@
 # 🖼️ Multimodal Image Captioning with BLIP
 
 Fine-tuned **BLIP (Bootstrapping Language-Image Pre-training)** for the **Flickr8k dataset** to generate captions for unseen images.  
-This project explores **vision–language models** and demonstrates a complete pipeline from **data preprocessing → training → evaluation → demo**.  
+This project explores **vision–language models** and demonstrates a complete pipeline from **data preprocessing → training → evaluation → interactive demo**.  
 
 ---
 
