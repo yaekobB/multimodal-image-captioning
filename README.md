@@ -16,6 +16,13 @@ This project explores **vision–language models** and demonstrates a complete p
 
 ---
 
+
+## 🚀 Live Demo
+👉 Try the model directly on Hugging Face Spaces:  
+https://huggingface.co/spaces/YaekobB/image-captioning-blip-demo  
+
+---
+
 ## 📂 Repository Structure
 ```
 multimodal-image-captioning/
@@ -103,6 +110,7 @@ pip install -r requirements.txt
 - **State-of-the-art BLIP model** fine-tuned for captioning.
 
 ---
+
 
 ## 📜 License
 MIT License.  
